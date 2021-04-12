@@ -1,0 +1,23 @@
+[33mcommit a8d5cbc7ea6a71872d01f7721a24a5e179cdb0ce[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Nguyen Ngoc Huy <ngochuyqt999@gmail.com>
+Date:   Mon Apr 12 20:48:41 2021 +0700
+
+    Sua file de conflict
+
+[33mcommit 4168141265846cc7bab4b0d1c4f9ed388285881c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: NguyenNgoc-Huy <82388078+NguyenNgoc-Huy@users.noreply.github.com>
+Date:   Mon Apr 12 20:35:37 2021 +0700
+
+    Update index.html
+
+[33mcommit 11883f70de3cd198cca3f22dd9939876b270bed8[m
+Author: Nguyen Ngoc Huy <ngochuyqt999@gmail.com>
+Date:   Mon Apr 12 20:38:57 2021 +0700
+
+    Add index.html only text file
+
+[33mcommit 9fa453c9c7a30a10f1b9bfce18d3a87f5e231cc2[m
+Author: Nguyen Ngoc Huy <ngochuyqt999@gmail.com>
+Date:   Mon Apr 12 20:34:36 2021 +0700
+
+    Add Facebook file
